@@ -1,0 +1,4 @@
+Primärfarbe: #1E3A5F
+Basiston: #F4F4F2
+Akzentfarbe: #F28C28
+Textfarbe: #2B2B2B
